@@ -1,4 +1,4 @@
-# Aplikasi Pengolahan Data Pegawai dengan PHP 7, MySQLi, DataTables ServerSide, dan Bootstrap 4
+# Aplikasi Pengolahan Data Pegawai dengan PHP 7, MySQL, dan Bootstrap 4
  	
 # Fitur Apilkasi 
 1.	Create (Menyimpan Data),
